@@ -1,0 +1,170 @@
+.actionButtons{
+    width: 21px;
+    height: 20px;
+    margin-left: 3px;
+}
+
+.adminTable td, .adminTable th{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table .img-polaroid{
+    /*width: 80px;*/
+    /*height: 115px;*/
+}
+
+.addButtons{
+    width: 180px;
+    height: 22px;
+    margin-bottom: 15px;
+}
+
+.orderButtons{
+    width: 170px !important;
+    height: 35px;
+    margin-bottom: 15px;
+    line-height: 35px;
+}
+
+.formButtons{
+    width: 257px !important;
+    height: 27px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.fileButtons{
+    width: 250px !important;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.saveButtons{
+    width: 282px !important;
+    height: 45px !important;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-radius: 4px !important;
+}
+
+.contentbox h2 {
+    margin-left: 28%;
+}
+
+.table a:hover {
+    text-decoration: none;
+    border-bottom: 1px dotted #ba1441;
+    color: #ba1441;
+}
+
+.formInput {
+     height: 35px !important;
+     width:  250px !important;
+}
+
+.formSelect {
+    height: 35px !important;
+    width:  250px !important;
+    border: 1px solid #CCCCCC !important;
+    padding-top: 5px !important;
+}
+
+.formMultipleSelect {
+     height: 150px !important;
+     width:  250px !important;
+     border: 1px solid #CCCCCC !important;
+     padding-top: 5px !important;
+ }
+
+.formTextarea {
+    height: 150px !important;
+    width:  280px !important;
+    border: 1px solid #CCCCCC !important;
+    padding-top: 5px !important;
+}
+
+.add-on {
+    height: 25px !important;
+    width: 20px !important;
+    vertical-align: middle !important;
+    border-radius: 4px 0 0 4px !important;
+}
+
+.multiple .add-on {
+    height: 140px !important;
+    width: 20px !important;
+    vertical-align: middle !important;
+    border-radius: 4px 0 0 4px !important;
+}
+
+.add-on i {
+    margin-top: 5px !important;
+}
+
+.middle {
+    width: 350px;
+    margin: 10 auto;
+}
+
+.middle label {
+    font-weight: bold;
+}
+
+.formAvatar {
+    height: 200px;
+    vertical-align: middle;
+}
+
+.formTable {
+    margin: 0 auto;
+}
+
+.error{
+    color: red;
+}
+
+.thumbnails {
+    float: left;
+    margin-right: 30px;
+}
+
+#calendar {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.orderTable {
+    width: 60%;
+}
+
+.orderInput {
+    width: 30px;
+    height: 30px !important;
+}
+
+.order {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 40px;
+    border: 1px #33aaff dashed;
+    padding: 25px;
+}
+
+.order {
+    font-size: 16px;
+}
+
+.order p span {
+    font-weight: bold;
+}
+
+.order .title {
+    color: #2F96B4;
+}
+
+.display_none {
+    display: none;
+}
